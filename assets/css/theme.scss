@@ -24,7 +24,7 @@ body {
     line-height:1.7;
     color: #333;
     overflow-x:hidden;
-    padding-top:116px;
+    padding-top:170px;
     
 }
 .serif-font {
@@ -102,6 +102,8 @@ small, .small {
 .start-header.scroll-on .navbar-brand img {	
 	-webkit-transition : all 0.3s ease-out;
 	transition : all 0.3s ease-out;
+	width:100px;
+	height:80px;
 }
 .navigation-wrap {	
 	width: 100%;
