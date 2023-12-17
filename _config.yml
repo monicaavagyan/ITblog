@@ -1,17 +1,17 @@
-title: "Affiliates"
-email: wowthemesnet@gmail.com
-timezone: UTC
-baseurl: "/affiliates-jekyll-theme"
+title: "Blog"
+email: avagyanmonika3@gmail.com
+timezone: UTC +4
+baseurl: "/monica-blog.github.io"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-author: Sal
+author: Monica
 paginate: 30
 disqus: 'demowebsite'
-locale: en_us
-lang: en_us
+locale: hy
+lang: hy
 feed_items: 10
-feed_update_period: daily
+feed_update_period: weekly
 feed_update_frequency: 1
 markdown: kramdown
 kramdown:
@@ -24,28 +24,20 @@ ganalytics: UA-113961478-1
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
+  monica:
+    name: Monica
+    display_name: Monica
     avatar: 'assets/images/sal.png'
-    email: wowthemesnet@gmail.com
+    email: avagyanmonika3@gmail.com
     web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John
-    avatar: 'assets/images/john.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
-
+    linkedin: https://www.linkedin.com/in/monica-avagyan/
+    description: "In this series of articles, we will explore the latest trends, breakthroughs, and notable developments in IT, AI, and the digital sphere within all world. "
+  
 # Social
 social:
-  instagram: https://www.instagram.com/bootstrapstarter/
-  facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
-  twitter: https://twitter.com/bstartercom
+  instagram: https://www.instagram.com/
+  facebook: https://www.facebook.com/
+  twitter: https://twitter.com/
 
 # Plugins
 plugins: 
