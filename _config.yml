@@ -1,10 +1,10 @@
-title: "Blog"
+title: "IT Blog"
 email: avagyanmonika3@gmail.com
 timezone: UTC +4
 baseurl: "/monica-blog.github.io"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+favicon: 'assets/images/logo.png'
 author: Monica
 paginate: 30
 disqus: 'demowebsite'
