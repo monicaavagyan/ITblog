@@ -1,2 +1,2 @@
-# Blog-ariticles
+# Blog-articles
 
