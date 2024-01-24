@@ -2,7 +2,7 @@
 
 layout: post
 title:  "Ինչ է Prompt leaking-ը"
-image:  assets/images/1.jpg
+image:  assets/images/2.jpg
 author: Monica
 ---
 
