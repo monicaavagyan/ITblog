@@ -1,7 +1,7 @@
 title: "IT Blog"
 email: avagyanmonika3@gmail.com
 timezone: UTC +4
-baseurl: "/ITblog.github.io"
+baseurl: "/ITblog"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
