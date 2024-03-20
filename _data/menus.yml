@@ -27,3 +27,6 @@ footermenu:
 - title: Contact
   url: "contact/"
 
+- title: Download
+  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/  
+  external: true
