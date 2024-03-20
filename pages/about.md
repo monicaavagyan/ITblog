@@ -9,11 +9,5 @@ image: assets/images/screenshot.png
 Ես ստեղծել եմ այս կայքը, որպեսզի այստեղ կիսվեմ **IT** ոլորտի ուսուցողական նյութերով,ինֆորմացիոն  թարմ նորություններով,հոդվածներով՝ **հայերեն** թարգմանությամբ։
 
 
----
-layout: page
-title: About Me
-permalink: "/about/"
----
-
 Hi, I'm Monika👩‍🦰, I study programming, economics and much more at university. I self-taught machine learning, then I participated in TUMO LAB's GSL program and did several projects.
 I created this website, find here to share educational materials of **IT** field, informational latest news, **Armenian** translation.
