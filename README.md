@@ -1,2 +1,2 @@
-# Blog-articles
+# Discover insightful IT articles and blogs on our website!
 
