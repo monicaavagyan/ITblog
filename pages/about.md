@@ -2,7 +2,7 @@
 layout: page
 title: Իմ մասին
 permalink: "/about/"
-image: assets/images/screenshot.png
+image: assets/images/
 ---
 
 Ողջույն, ես Մոնիկան  եմ👩‍🦰։ 
